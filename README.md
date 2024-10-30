@@ -1,5 +1,6 @@
 Python Mini Projects Showcase 🐍💻
 Welcome to the Python Mini Projects Showcase! 🚀 This repository contains three beginner-friendly projects that demonstrate Python’s versatility and simplicity. Feel free to explore, learn, and enhance your skills. 😊
+
 Projects Included
 Digital Clock ⏰
 A real-time clock displaying the current date and time.
@@ -10,11 +11,12 @@ Technology: Python, random module.
 Smart Rent Calculator 💸🏠
 A handy tool to calculate rent based on user input.
 Technology: Python, input() function for interaction.
+
 How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/python-mini-projects.git
+git clone https://github.com/khanjayad/python-mini-projects.git
 Navigate into the project folder:
 bash
 Copy code
@@ -23,9 +25,11 @@ Run the individual Python files using:
 bash
 Copy code
 python <project_name>.py
+
 Prerequisites
 Python 3.x installed on your system.
 Basic knowledge of running Python scripts.
+
 Contributing
 If you have ideas or want to improve these projects, feel free to open an issue or submit a pull request. Contributions are always welcome! 🌟
 
